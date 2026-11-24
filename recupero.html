@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Recupero aggiornamenti Dompi</title>
+    <script type="module" src="./js/recovery.js"></script>
+  </head>
+  <body>
+    <main>
+      <h1>Recupero aggiornamenti Dompi Car</h1>
+      <p>
+        Usa questa pagina nello stesso Safari o nella PWA che mostra la vecchia
+        versione. Chiudi le altre finestre Dompi, poi controlla gli
+        aggiornamenti. È necessaria una connessione Internet.
+      </p>
+      <p>
+        Questa procedura aggiorna soltanto il Service Worker della cartella di
+        Dompi. Non elimina preferenze, cookie, dati WordPress o altre
+        registrazioni.
+      </p>
+      <button id="recovery-check">Controlla e prepara aggiornamento</button
+      ><button id="recovery-apply" hidden>
+        Attiva aggiornamento e apri Dompi
+      </button>
+      <p><button id="recovery-repair">Ripara cache di questa installazione</button></p>
+      <p>Prima di riparare chiudi tutte le altre finestre Dompi e interrompi la musica. Le preferenze non vengono cancellate.</p>
+      <p id="recovery-status" role="status">Pronto per il controllo.</p>
+      <p><a href="./">Torna a Dompi</a></p>
+    </main>
+  </body>
+</html>
