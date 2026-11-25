@@ -1,0 +1,74 @@
+[
+  {
+    "file": "docs/gallery/01-installazione-auto.webp",
+    "thumbnail": "docs/gallery/01-installazione-auto-thumb.webp",
+    "title": "Installazione reale in auto",
+    "caption": "iPad montato sul cruscotto, con navigazione e lettore affiancati. Foto di una versione precedente.",
+    "role": "hero",
+    "width": 1536,
+    "height": 1152
+  },
+  {
+    "file": "docs/gallery/02-musica-locale.webp",
+    "thumbnail": "docs/gallery/02-musica-locale-thumb.webp",
+    "title": "Musica locale e navigazione",
+    "caption": "Riproduzione di file locali, contatore dei brani e spettro audio.",
+    "role": "gallery",
+    "width": 1536,
+    "height": 1152
+  },
+  {
+    "file": "docs/gallery/03-scelta-mappe.webp",
+    "thumbnail": "docs/gallery/03-scelta-mappe-thumb.webp",
+    "title": "Scelta delle mappe",
+    "caption": "Accesso rapido a Waze, Google Maps e Mappe Apple.",
+    "role": "gallery",
+    "width": 1536,
+    "height": 1152
+  },
+  {
+    "file": "docs/gallery/04-contatti.webp",
+    "thumbnail": "docs/gallery/04-contatti-thumb.webp",
+    "title": "Telefono e WhatsApp",
+    "caption": "Menu di accesso rapido alle applicazioni di comunicazione.",
+    "role": "gallery",
+    "width": 1536,
+    "height": 1152
+  },
+  {
+    "file": "docs/gallery/05-radio.webp",
+    "thumbnail": "docs/gallery/05-radio-thumb.webp",
+    "title": "Radio Internet",
+    "caption": "Radio in streaming con VU meter in modalità demo.",
+    "role": "gallery",
+    "width": 1536,
+    "height": 1152
+  },
+  {
+    "file": "docs/gallery/06-jellyfin.webp",
+    "thumbnail": "docs/gallery/06-jellyfin-thumb.webp",
+    "title": "Jellyfin",
+    "caption": "Riproduzione dalla libreria musicale personale, con copertina e spettro.",
+    "role": "gallery",
+    "width": 1536,
+    "height": 1152
+  },
+  {
+    "file": "docs/gallery/07-vu-meter.webp",
+    "thumbnail": "docs/gallery/07-vu-meter-thumb.webp",
+    "title": "VU meter stereo",
+    "caption": "Indicatori graduati dei canali sinistro e destro durante la riproduzione locale.",
+    "role": "gallery",
+    "width": 1536,
+    "height": 1152
+  },
+  {
+    "file": "docs/gallery/08-supporto-ipad.webp",
+    "thumbnail": "docs/gallery/08-supporto-ipad-thumb.webp",
+    "title": "Supporto per iPad",
+    "caption": "Vista posteriore del supporto utilizzato nell’installazione reale.",
+    "role": "technical",
+    "width": 1536,
+    "height": 1152
+  }
+]
