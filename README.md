@@ -6,6 +6,79 @@ Interfaccia PWA per tablet in automobile, sviluppata da Domenico Pizzata.
 
 **Versione online prevista:** https://dompidark.github.io/DompiCarDashboard-Public/
 
+<!-- gallery:start -->
+<h2 id="dompi-car-dashboard-in-azione">Dompi Car Dashboard in azione</h2>
+
+<p>Dompi Car Dashboard è una PWA pensata per iPad, che consente di affiancare le app di navigazione a un lettore musicale con radio Internet, file locali e libreria Jellyfin. Le immagini mostrano l’interfaccia e un esempio di installazione reale in auto.</p>
+
+<p align="center">
+  <a href="docs/gallery/01-installazione-auto.webp">
+    <img src="docs/gallery/01-installazione-auto.webp" width="900" alt="iPad installato sul cruscotto con app di navigazione e Dompi Car Dashboard affiancate">
+  </a><br>
+  <sub><strong>Installazione reale in auto.</strong> iPad montato sul cruscotto, con navigazione e lettore affiancati. Foto di una versione precedente.</sub>
+</p>
+
+<blockquote>
+  <p>Le mappe sono applicazioni esterne affiancate tramite le funzioni disponibili nel sistema operativo: Dompi non incorpora le app native e non è un’integrazione ufficiale CarPlay. Le aree cartografiche nelle fotografie sono state sfocate per tutelare la privacy.</p>
+</blockquote>
+
+<h3>Interfaccia e funzioni</h3>
+
+<p>Seleziona una miniatura per aprire la fotografia a piena risoluzione.</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="docs/gallery/02-musica-locale.webp"><img src="docs/gallery/02-musica-locale-thumb.webp" width="420" alt="Musica locale affiancata alla navigazione con contatore e spettro audio"></a><br>
+      <strong>Musica locale e navigazione</strong><br>
+      <sub>Riproduzione di file locali, contatore dei brani e spettro audio.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="docs/gallery/03-scelta-mappe.webp"><img src="docs/gallery/03-scelta-mappe-thumb.webp" width="420" alt="Menu di scelta tra Waze, Google Maps e Mappe Apple"></a><br>
+      <strong>Scelta delle mappe</strong><br>
+      <sub>Accesso rapido a Waze, Google Maps e Mappe Apple.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="docs/gallery/04-contatti.webp"><img src="docs/gallery/04-contatti-thumb.webp" width="420" alt="Menu di accesso rapido a Telefono e WhatsApp"></a><br>
+      <strong>Telefono e WhatsApp</strong><br>
+      <sub>Menu di accesso rapido alle applicazioni di comunicazione.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="docs/gallery/05-radio.webp"><img src="docs/gallery/05-radio-thumb.webp" width="420" alt="Riproduzione di Radio Italia con VU meter stereo"></a><br>
+      <strong>Radio Internet</strong><br>
+      <sub>Radio in streaming con VU meter in modalità demo.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="docs/gallery/06-jellyfin.webp"><img src="docs/gallery/06-jellyfin-thumb.webp" width="420" alt="Riproduzione Jellyfin con copertina e spettro audio"></a><br>
+      <strong>Jellyfin</strong><br>
+      <sub>Riproduzione dalla libreria musicale personale, con copertina e spettro.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="docs/gallery/07-vu-meter.webp"><img src="docs/gallery/07-vu-meter-thumb.webp" width="420" alt="Indicatori VU stereo dei canali sinistro e destro"></a><br>
+      <strong>VU meter stereo</strong><br>
+      <sub>Indicatori graduati dei canali sinistro e destro durante la riproduzione locale.</sub>
+    </td>
+  </tr>
+</table>
+
+<h3>Installazione reale in auto</h3>
+
+<p align="center">
+  <a href="docs/gallery/08-supporto-ipad.webp">
+    <img src="docs/gallery/08-supporto-ipad-thumb.webp" width="720" alt="Vista posteriore del supporto che fissa l’iPad al cruscotto">
+  </a><br>
+  <sub><strong>Supporto per iPad.</strong> Vista posteriore del supporto utilizzato nell’installazione reale.</sub>
+</p>
+
+<blockquote>
+  <p>La disponibilità delle app e dell’affiancamento dipende dal dispositivo e dal sistema operativo. Le fotografie non attestano compatibilità USB/iPod. Configurare la Dashboard e utilizzare i comandi soltanto a veicolo fermo, nel rispetto delle norme sulla circolazione e sulla sicurezza.</p>
+</blockquote>
+<!-- gallery:end -->
+
 ## Utilizzo
 
 La PWA si avvia con `index.html` su un sito HTTPS. I file sono pubblicati nella radice del repository per il corretto funzionamento di GitHub Pages. Funzioni di navigazione e applicazioni esterne dipendono dal dispositivo e dal browser.
