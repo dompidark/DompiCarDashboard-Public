@@ -1,10 +1,19 @@
 [
   {
+    "file": "docs/gallery/00-navigazione-simulata-dashboard.webp",
+    "thumbnail": "docs/gallery/00-navigazione-simulata-dashboard-thumb.webp",
+    "title": "Dompi Car Dashboard affiancata alla navigazione",
+    "caption": "Esempio illustrativo di Dompi Car Dashboard affiancata a una navigazione simulata. L’immagine è una ricostruzione grafica a scopo dimostrativo.",
+    "role": "hero",
+    "width": 1448,
+    "height": 1086
+  },
+  {
     "file": "docs/gallery/01-installazione-auto.webp",
     "thumbnail": "docs/gallery/01-installazione-auto-thumb.webp",
     "title": "Installazione reale in auto",
     "caption": "iPad montato sul cruscotto, con navigazione e lettore affiancati. Foto di una versione precedente.",
-    "role": "hero",
+    "role": "gallery",
     "width": 1536,
     "height": 1152
   },
