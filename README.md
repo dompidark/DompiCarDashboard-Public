@@ -63,10 +63,10 @@ Slide Over consente di tenere Dompi in una finestra stretta accanto a un’app d
 <p>Dompi Car Dashboard è una PWA pensata per iPad, che consente di affiancare le app di navigazione a un lettore musicale con radio Internet, file locali e libreria Jellyfin. Le immagini mostrano l’interfaccia e un esempio di installazione reale in auto.</p>
 
 <p align="center">
-  <a href="docs/gallery/01-installazione-auto.webp">
-    <img src="docs/gallery/01-installazione-auto.webp" width="900" alt="iPad installato sul cruscotto con app di navigazione e Dompi Car Dashboard affiancate">
+  <a href="docs/gallery/00-navigazione-simulata-dashboard.webp">
+    <img src="docs/gallery/00-navigazione-simulata-dashboard.webp" width="900" alt="Esempio illustrativo di Dompi Car Dashboard affiancata a una navigazione urbana simulata">
   </a><br>
-  <sub><strong>Installazione reale in auto.</strong> iPad montato sul cruscotto, con navigazione e lettore affiancati. Foto di una versione precedente.</sub>
+  <sub>Esempio illustrativo di Dompi Car Dashboard affiancata a una navigazione simulata. L’immagine è una ricostruzione grafica a scopo dimostrativo.</sub>
 </p>
 
 <blockquote>
@@ -117,6 +117,13 @@ Slide Over consente di tenere Dompi in una finestra stretta accanto a un’app d
 </table>
 
 <h3>Installazione reale in auto</h3>
+
+<p align="center">
+  <a href="docs/gallery/01-installazione-auto.webp">
+    <img src="docs/gallery/01-installazione-auto-thumb.webp" width="720" alt="iPad installato sul cruscotto con app di navigazione e Dompi Car Dashboard affiancate">
+  </a><br>
+  <sub><strong>Installazione reale in auto.</strong> iPad montato sul cruscotto, con navigazione e lettore affiancati. Foto di una versione precedente.</sub>
+</p>
 
 <p align="center">
   <a href="docs/gallery/08-supporto-ipad.webp">
